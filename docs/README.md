@@ -1,3 +1,11 @@
+2024-11-29
+
+The PF-Algo-Viz project is complete and this repository is now retired. [PostHoc](https://posthoc.pathfinding.ai) is a followup project which re-implements and extends many of the ideas originally developed as part of PF-Algo-Viz. Please check out that application and our associated [repository](https://github.com/ShortestPathLab/posthoc-app) for the latest news and updates
+
+-Dan
+
+-- 
+
 # Debugging Visualiser for Pathfinding Search
 
 This app can be used to visualise and debug pathfinding algorithms independent of any specific context. At a minimal level, all it needs is a json file `search trace` which is nothing but sequence of events that occurred in the execution of the pathfinding algorithm.
